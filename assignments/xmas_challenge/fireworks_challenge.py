@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-####
+###
 ### Data loading and array allocation
 ## image is given as RGB -> red green blue channels
 uni = plt.imread( 'data/uni_stuttgart.png')[...,:3] 
