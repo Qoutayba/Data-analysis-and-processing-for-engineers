@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import re
-# import numpy as np
+## import numpy as np
 
 ## The data can be found online under this link (with daily updates): 
 # oil: https://www.nasdaq.com/market-activity/commodities/bz%3Anmx/historical
